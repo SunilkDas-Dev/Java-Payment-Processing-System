@@ -1,4 +1,4 @@
-echo "# Java Payment Processing System
+# Java Payment Processing System
 
 ## 📌 Overview
 The **Java Payment Processing System** is a console-based Java application that simulates payment transactions.
